@@ -1,0 +1,15 @@
+C:\Users\AlexS\OneDrive\Documentos\ALX_2121IS_DOC\UPTecamac\MATERIAS\ALGORITMOS\CLASIFICACIÓN DE CODIGOS\CODIGOS Y LENGUAJES\C#\HolaMundo\bin\MCD\Debug\net6.0\HolaMundo.exe
+C:\Users\AlexS\OneDrive\Documentos\ALX_2121IS_DOC\UPTecamac\MATERIAS\ALGORITMOS\CLASIFICACIÓN DE CODIGOS\CODIGOS Y LENGUAJES\C#\HolaMundo\bin\MCD\Debug\net6.0\HolaMundo.deps.json
+C:\Users\AlexS\OneDrive\Documentos\ALX_2121IS_DOC\UPTecamac\MATERIAS\ALGORITMOS\CLASIFICACIÓN DE CODIGOS\CODIGOS Y LENGUAJES\C#\HolaMundo\bin\MCD\Debug\net6.0\HolaMundo.runtimeconfig.json
+C:\Users\AlexS\OneDrive\Documentos\ALX_2121IS_DOC\UPTecamac\MATERIAS\ALGORITMOS\CLASIFICACIÓN DE CODIGOS\CODIGOS Y LENGUAJES\C#\HolaMundo\bin\MCD\Debug\net6.0\HolaMundo.dll
+C:\Users\AlexS\OneDrive\Documentos\ALX_2121IS_DOC\UPTecamac\MATERIAS\ALGORITMOS\CLASIFICACIÓN DE CODIGOS\CODIGOS Y LENGUAJES\C#\HolaMundo\bin\MCD\Debug\net6.0\ref\HolaMundo.dll
+C:\Users\AlexS\OneDrive\Documentos\ALX_2121IS_DOC\UPTecamac\MATERIAS\ALGORITMOS\CLASIFICACIÓN DE CODIGOS\CODIGOS Y LENGUAJES\C#\HolaMundo\bin\MCD\Debug\net6.0\HolaMundo.pdb
+C:\Users\AlexS\OneDrive\Documentos\ALX_2121IS_DOC\UPTecamac\MATERIAS\ALGORITMOS\CLASIFICACIÓN DE CODIGOS\CODIGOS Y LENGUAJES\C#\HolaMundo\obj\MCD\Debug\net6.0\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\AlexS\OneDrive\Documentos\ALX_2121IS_DOC\UPTecamac\MATERIAS\ALGORITMOS\CLASIFICACIÓN DE CODIGOS\CODIGOS Y LENGUAJES\C#\HolaMundo\obj\MCD\Debug\net6.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexS\OneDrive\Documentos\ALX_2121IS_DOC\UPTecamac\MATERIAS\ALGORITMOS\CLASIFICACIÓN DE CODIGOS\CODIGOS Y LENGUAJES\C#\HolaMundo\obj\MCD\Debug\net6.0\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\AlexS\OneDrive\Documentos\ALX_2121IS_DOC\UPTecamac\MATERIAS\ALGORITMOS\CLASIFICACIÓN DE CODIGOS\CODIGOS Y LENGUAJES\C#\HolaMundo\obj\MCD\Debug\net6.0\HolaMundo.AssemblyInfo.cs
+C:\Users\AlexS\OneDrive\Documentos\ALX_2121IS_DOC\UPTecamac\MATERIAS\ALGORITMOS\CLASIFICACIÓN DE CODIGOS\CODIGOS Y LENGUAJES\C#\HolaMundo\obj\MCD\Debug\net6.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\AlexS\OneDrive\Documentos\ALX_2121IS_DOC\UPTecamac\MATERIAS\ALGORITMOS\CLASIFICACIÓN DE CODIGOS\CODIGOS Y LENGUAJES\C#\HolaMundo\obj\MCD\Debug\net6.0\HolaMundo.dll
+C:\Users\AlexS\OneDrive\Documentos\ALX_2121IS_DOC\UPTecamac\MATERIAS\ALGORITMOS\CLASIFICACIÓN DE CODIGOS\CODIGOS Y LENGUAJES\C#\HolaMundo\obj\MCD\Debug\net6.0\ref\HolaMundo.dll
+C:\Users\AlexS\OneDrive\Documentos\ALX_2121IS_DOC\UPTecamac\MATERIAS\ALGORITMOS\CLASIFICACIÓN DE CODIGOS\CODIGOS Y LENGUAJES\C#\HolaMundo\obj\MCD\Debug\net6.0\HolaMundo.pdb
+C:\Users\AlexS\OneDrive\Documentos\ALX_2121IS_DOC\UPTecamac\MATERIAS\ALGORITMOS\CLASIFICACIÓN DE CODIGOS\CODIGOS Y LENGUAJES\C#\HolaMundo\obj\MCD\Debug\net6.0\HolaMundo.genruntimeconfig.cache
