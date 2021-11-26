@@ -1,0 +1,93 @@
+
+<script>
+alert("ESTO ES BATALLA NAVAL!!!" + "\nJUGADOR 1 Y JUGADOR 2 INSERTEN LAS POSICIONES DE SUS BARCOS." + "\nY QUE COMIENCE LA GUERRA EN ALTAMAR!");
+    
+var tablero1 = ["P1", "P2", "P3", "P4", "P5", "P6", "P7", "P8", "P9", "P10"];
+
+var tablero2 = ["P1", "P2", "P3", "P4", "P5", "P6", "P7", "P8", "P9", "P10"];
+
+var cord_Barcos1 = posicionesJugador1();
+var cord_Barcos2 = posicionesJugador2(); 
+
+var barcosTumbados1 = [];
+var barcosTumbados2 = [];
+
+juego(cord_Barcos1, cord_Barcos2, barcosTumbados1, barcosTumbados2);
+
+function juego(tab1, tab2, puntos1, puntos2){
+    
+    var dato = 1;
+    while(dato > 0){
+
+        alert("Turno del jugador 1")
+        var jugador_1 = conteoTiros(tab2, puntos1);
+    
+        alert("Turno del jugador 2")
+        var jugador_2 = conteoTiros(tab1, puntos2);
+
+        if(jugador_1 == 3){
+            console.log("\nEl jugador 1 ha tumbado todos los barcos del rival." + "EL JUGADOR 1 GANA!")
+            dato --;
+
+        }else{
+            if(jugador_2 == 3){
+                console.log("\nEl jugador 2 ha tumbado todos los barcos del rival." + "EL JUGADOR 2 GANA!")
+                dato --;
+            }
+        }
+    }
+    console.log("\nTableros finales");
+    console.log("\nTablero del jugador 1");
+    console.log(tab1);
+    console.log("\nTablero del jugador 2");
+    console.log(tab2);
+}
+
+//----------------------------------------------------------------------------------------------------------------------
+
+function conteoTiros(tabs, point){
+    var tiros = parseInt(prompt("Apunta y dispara!!"));
+
+        if(tabs[tiros - 1] == "Barco"){
+            var monitoreo = tabs[tiros - 1];
+            tabs[tiros - 1] = "Tumbado";
+            point.push("$");
+            alert("Tiro acertado en la posicon " + tiros);
+            var numer = point.length;
+        }else{
+            alert("Tiro fallado en la posicon " + tiros);
+        }
+    
+    return numer;
+}
+
+function posicionesJugador1(){
+    alert("Jugador 1");
+
+    for(i = 0; i < 3; i++){
+        var asignaBarcos = parseInt(prompt("Inserte el numero de posicion del barco " + (i + 1)));
+
+        var inicio = true;
+        if(inicio == true){
+            var asignando = tablero1[asignaBarcos - 1];
+            tablero1[asignaBarcos - 1] = "Barco";
+        }
+    }
+    return tablero1;
+}
+
+function posicionesJugador2(){
+    alert("Jugador 2");
+
+    for(i = 0; i < 3; i++){
+        var asignaBarcos1 = parseInt(prompt("Inserte el numero de posicion del barco " + (i + 1)));
+
+        var inicio1 = true;
+        if(inicio1 == true){
+            var asignando1 = tablero2[asignaBarcos1 - 1];
+            tablero2[asignaBarcos1 - 1] = "Barco";
+        }
+    }
+    return tablero2;
+}
+</script>
